@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hola, soy Sarah Schmidt 👋
 
-<!--
-**sschmidt0/sschmidt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Soy estudiante del máster universitario Aplicaciones Multimedia de la Universitat Oberta de Catalunya (UOC) y actualmente trabajo en el sector de Inteligencia Artificial / Machine Learning. Aspiro a la posición Desarrolladora Frontend junior con React. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+He adquirido los siguientes conocimientos tecnológicos:
+- HTML5
+- CSS3, Sass, ITCSS, BEM, Bootstrap
+- JavaScript, jQuery
+- React
+- Redux
+- Nodejs y Express
+
+Además, tengo conocimientos de:
+- Diseño de interfaces interactivas, UX, arquitectura de la información, prototipaje
+- Material UI
+- Accesibilidad Web
+- Consumo y creación de API REST
+- SEO
+- Metodologías ágiles, SCRUM
+
+---
+
+Puedes encontrarme en:
+
+- Web personal [sarahschmidt.es] (https://www.sarahschmidt.es)
+- [LinkedIn] (www.linkedin.com/in/sschmidt0)
