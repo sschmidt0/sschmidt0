@@ -6,7 +6,7 @@ Soy estudiante del máster universitario Aplicaciones Multimedia de la Universit
 
 ---
 
-He adquirido los siguientes conocimientos tecnológicos:
+**He adquirido los siguientes conocimientos tecnológicos:**
 - HTML5
 - CSS3, Sass, ITCSS, BEM, Bootstrap
 - JavaScript, jQuery
@@ -14,7 +14,7 @@ He adquirido los siguientes conocimientos tecnológicos:
 - Redux
 - Nodejs y Express
 
-Además, tengo conocimientos de:
+**Además, tengo conocimientos de:**
 - Diseño de interfaces interactivas, UX, arquitectura de la información, prototipaje
 - Material UI
 - Accesibilidad Web
@@ -24,7 +24,7 @@ Además, tengo conocimientos de:
 
 ---
 
-Puedes encontrarme en:
+**Puedes encontrarme en:**
 
 - Web personal [sarahschmidt.es] (https://www.sarahschmidt.es)
 - [LinkedIn] (www.linkedin.com/in/sschmidt0)
