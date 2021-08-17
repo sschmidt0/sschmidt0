@@ -13,6 +13,7 @@ Soy estudiante del máster universitario Aplicaciones Multimedia de la Universit
 - React
 - Redux
 - Nodejs y Express
+- MongoDB
 
 **Además, tengo conocimientos de:**
 - Diseño de interfaces interactivas, UX, arquitectura de la información, prototipaje
