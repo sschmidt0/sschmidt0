@@ -9,7 +9,7 @@ Soy estudiante del máster universitario Aplicaciones Multimedia de la Universit
 **He adquirido los siguientes conocimientos tecnológicos:**
 - HTML5
 - CSS3, Sass, ITCSS, BEM, Bootstrap
-- JavaScript, jQuery
+- JavaScript ES6, jQuery
 - React
 - Redux
 - Nodejs y Express
