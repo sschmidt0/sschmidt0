@@ -10,10 +10,10 @@ Soy estudiante del máster universitario Aplicaciones Multimedia de la Universit
 - HTML5
 - CSS3, Sass, ITCSS, BEM, Bootstrap
 - JavaScript ES6, jQuery
-- React
-- Redux
-- Nodejs y Express
+- React, Redux, Nextjs
+- Nodejs, Express
 - MongoDB
+- Testing
 
 **Además, tengo conocimientos de:**
 - Diseño de interfaces interactivas, UX, arquitectura de la información, prototipaje
