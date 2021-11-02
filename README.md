@@ -1,31 +1,29 @@
-### Hola, soy Sarah Schmidt 👋
+### Hi there, I am Sarah Schmidt 👋
 
 ---
 
-Soy estudiante del máster universitario Aplicaciones Multimedia de la Universitat Oberta de Catalunya (UOC) y actualmente trabajo en el sector de Inteligencia Artificial / Machine Learning. Aspiro a la posición Desarrolladora Frontend junior con React. 
+I have a Master's degree in Multimedia Applications from the Universitat Oberta de Catalunya and a certificate for Frontend with React from the IT Academy of the Cibernàrium. I have expertise in React, Nextjs, Redux, JavaScript ES6, HTML5 and CSS3. I'm also knowledgeable in NodeJs, Express, MongoDB and the creation of a REST API. For my Master's degree project I have developed a progressive web application with the fullstack MERN. I am looking to gain work experience as a frontend developer with React.
 
 ---
 
-**He adquirido los siguientes conocimientos tecnológicos:**
-- HTML5
-- CSS3, Sass, ITCSS, BEM, Bootstrap
+**I have acquired the following technological knowledge:**
+- HTML5, CSS3, Sass, ITCSS, BEM, Bootstrap
 - JavaScript ES6, jQuery
-- React, Redux, Nextjs
-- Nodejs, Express
-- MongoDB
+- MERN: MongoDB, Express, React, Nodejs
+- Redux, Nextjs, Material UI
 - Testing
 
-**Además, tengo conocimientos de:**
-- Diseño de interfaces interactivas, UX, arquitectura de la información, prototipaje
-- Material UI
-- Accesibilidad Web
-- Consumo y creación de API REST
-- SEO
-- Metodologías ágiles, SCRUM
+**In addition, I have knowledge of:**
+- Creation of a Progressive Web App (PWA)
+- Creation of a REST API
+- Interactive interface design
+- SEO strategies
+- Web accessibility
+- Agile methodologies, SCRUM
 
 ---
 
-**Puedes encontrarme en:**
+**You can find me at:**
 
-- Web personal [sarahschmidt.es] (https://www.sarahschmidt.es)
+- [Portfolio] (https://portfolio-schmidt.vercel.app/en)
 - [LinkedIn] (www.linkedin.com/in/sschmidt0)
