@@ -25,5 +25,5 @@ I have a Master's degree in Multimedia Applications from the Universitat Oberta 
 
 **You can find me at:**
 
-- [Portfolio] (https://portfolio-schmidt.vercel.app/en)
+- [Portfolio] (https://portafolio-schmidt.vercel.app/en)
 - [LinkedIn] (www.linkedin.com/in/sschmidt0)
