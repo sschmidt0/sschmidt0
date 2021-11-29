@@ -25,5 +25,5 @@ I have a Master's degree in Multimedia Applications from the Universitat Oberta 
 
 **You can find me at:**
 
-- [Portfolio] (https://portafolio-schmidt.vercel.app/en)
+- [Portfolio] (https://www.sarahschmidt.es)
 - [LinkedIn] (www.linkedin.com/in/sschmidt0)
