@@ -2,11 +2,13 @@
 
 ---
 
-💻 Con un máster en Aplicaciones Multimedia y un certificado de Frontend con React. Con sólidos conocimientos en React, Nextjs, Redux, JavaScript ES6, HTML5 y CSS3. Con conocimientos también en Node.js, Express, MongoDB y la creación de una API REST. Actualmente busco aplicar mis conocimientos de desarrolladora Frontend con React. 💻
+💻 Desarrolladora Frontend con React. Máster en Aplicaciones Multimedia y certificado de Frontend con React. Sólidos conocimientos en React, Nextjs, Redux, JavaScript ES6, HTML5 y CSS3. Conocimientos también en Node.js, Express, MongoDB. 💻
 
 🙋 Soy una persona proactiva, resolutiva y con buenas dotes de comunicación que no tiene miedo a tomar decisiones y asumir responsabilidades. Siempre estoy con muchas ganas de aprender cosas nuevas y emprender nuevos desafíos. Me considero una profesional empática con una clara orientación al cliente y muy buena en el trabajo en equipo. Me desenvuelvo fácilmente en entornos cambiantes y asumo retos con interés. 🙋
 
 🔥 Proyectos realizados: 🔥
+➡️ FemHack, proyecto individual, 1140/1200 puntos, ranking 4/50  (https://github.com/sschmidt0/femhack_individual.git)
+➡️ DropZone (uplaod to Google Drive still has to be implemented  (https://github.com/sschmidt0/dropZone.git)
 ➡️ Clone de una versión reducida de Skyscanner  (https://github.com/sschmidt0/skyscanner)
 ➡️ Clone de una versión reducida de YouTube  (https://github.com/sschmidt0/Reactube)
 
